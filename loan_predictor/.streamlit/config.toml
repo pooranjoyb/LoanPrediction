@@ -1,0 +1,6 @@
+# Streamlit version: 1.20.0
+
+[theme]
+base="light"
+primaryColor="#584bff"
+font="serif"
